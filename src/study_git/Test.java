@@ -6,7 +6,8 @@ public class Test {
 		// TODO Auto-generated method stub
 //		sysout
 
-		System.out.println("hello, girl.");
+		System.out.println("hello, girl and boy.");
+
 	}
 
 }
